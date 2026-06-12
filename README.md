@@ -50,3 +50,4 @@ store/
 npm install
 npm start          # затем 'i' для iOS, 'a' для Android, 'w' для web
 ```
+ридмик написал ии
